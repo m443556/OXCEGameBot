@@ -15,7 +15,7 @@ Automated Controller for OpenXcom Extended (WiP)
 - Tactical pathfinding algorithms
 - Multi-unit coordination
 
-## 🚀 Quick Start
+## Quick Start
 ```bash
 git clone https://github.com/m443556/OXCEGameBot.git
 cd OXCEGameBot
