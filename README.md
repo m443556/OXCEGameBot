@@ -16,7 +16,7 @@ A Python-based bot that automates gameplay for OpenXcom Extended (OXCE) using co
 - Computer vision for UI element detection
 - Executing selected in-game actions autonomously
 
-### 🚀 Future plans:
+### 🚀 Future Plans:
 - Tactical pathfinding algorithms
 - Multi-unit coordination
 
