@@ -1,21 +1,19 @@
 # OXCEGameBot
-Automated Controller for OpenXcom Extended (WiP)
+Automated Controller for OpenXcom Extended ![Project Status](https://img.shields.io/badge/status-WIP-yellow)
 
+## Overview
+A Python-based bot that automates gameplay for OpenXcom Extended (OXCE) using computer vision and game state analysis.
 
-## 🎮 Features
-✅ **Working:**  
-- Game process management
-- Save game parsing (YAML)
-- Screenshot capture via OpenCV
-- Keyboard/mouse input control
-- Basic state machine
+## Features
+### ✅ What Works:
+- Launching OXCE from python wrapper
+- Parsing all data from quicksave files
+- Taking screenshots for OpenCV analysis
+- Sending keyboard and mouse events to OXCE
 
-🚀 **In Progress:**  
-- Monte Carlo Tree Search decision making
-- Computer vision for UI element detection
-- Tactical pathfinding algorithms
-- Multi-unit coordination
-
+### 🚧 What's In Progress:
+- Advanced reasoning via Monte Carlo Tree Search (MCTS)
+- Executing selected in-game actions autonomously
 
 ## Quick Start
 1. Get the latest OXCE for Linux
