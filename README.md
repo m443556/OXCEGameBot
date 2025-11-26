@@ -13,7 +13,7 @@ A Python-based bot that automates gameplay for OpenXcom Extended (OXCE) using co
 
 ### 🚧 What's In Progress:
 - Advanced reasoning via Monte Carlo Tree Search (MCTS)
-- Computer vision for UI element detection and procssing
+- Computer vision for UI element detection and processing
 - Executing selected in-game actions autonomously
 
 ### 🚀 Future Plans:
