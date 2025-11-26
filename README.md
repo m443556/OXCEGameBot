@@ -42,3 +42,6 @@ pip install -r requirements.txt
 ```bash
 python3.11 ./OXCEBot.py
 ```
+
+## Acknowledgments
+- OpenXcom Extended team for creating an amazing game
