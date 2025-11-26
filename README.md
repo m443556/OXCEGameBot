@@ -6,10 +6,11 @@ A Python-based bot that automates gameplay for OpenXcom Extended (OXCE) using co
 
 ## Features
 ### ✅ What Works:
-- Launching OXCE from python wrapper
-- Parsing all data from quicksave files
-- Taking screenshots for OpenCV analysis
-- Sending keyboard and mouse events to OXCE
+- Managing OXCE process from python wrapper
+- Parsing game state data from quicksave files
+- Parsing screenshots for OpenCV analysis
+- Keyboard/mouse input control
+- Basic state machine
 
 ### 🚧 What's In Progress:
 - Advanced reasoning via Monte Carlo Tree Search (MCTS)
