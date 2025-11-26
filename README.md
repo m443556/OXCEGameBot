@@ -1,6 +1,7 @@
 # OXCEGameBot
 Automated Controller for OpenXcom Extended (WiP)
 
+
 ## 🎮 Features
 ✅ **Working:**  
 - Game process management
@@ -14,6 +15,7 @@ Automated Controller for OpenXcom Extended (WiP)
 - Computer vision for UI element detection
 - Tactical pathfinding algorithms
 - Multi-unit coordination
+
 
 ## Quick Start
 1. Get the latest OXCE for Linux
