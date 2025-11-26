@@ -1,6 +1,6 @@
 # Contributing to OXCEGameBot
 
-Thank you for your interest in contributing to the OXCE Game Bot project! We welcome contributions from everyone, regardless of experience level.
+Thank you for your interest in contributing to the OXCEGameBot project! We welcome contributions from everyone, regardless of experience level.
 
 ## How to Contribute
 
