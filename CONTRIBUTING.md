@@ -24,7 +24,7 @@ Thank you for your interest in contributing to the OXCEGameBot project! We welco
 
 ## Areas Where We Need Help
 - **Bug fixes**: Help identify and fix issues in existing functionality
-- **Feature development**: Work on the "What does not" items from the README
+- **Feature development**: Work on the "In Progress" items from the README
 - **Documentation**: Improve setup guides, API documentation, and examples
 - **Testing**: Create test cases for different OXCE scenarios
 - **Performance optimization**: Improve speed and efficiency
