@@ -45,3 +45,6 @@ python3.11 ./OXCEBot.py
 
 ## Contributing
 We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get involved.
+
+## License
+This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
