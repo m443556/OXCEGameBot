@@ -42,3 +42,6 @@ pip install -r requirements.txt
 ```bash
 python3.11 ./OXCEBot.py
 ```
+
+## Contributing
+We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get involved.
