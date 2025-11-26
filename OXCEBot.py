@@ -569,8 +569,8 @@ def main() -> None:
     Initializes the bot, launches the game, and starts the main loop.
     """
     # Configuration - Update these paths for your system
-    GAME_BINARY_PATH = "/home/merlin/openxcomex/OpenXcomEx"
-    SAVE_DIRECTORY_PATH = "/home/merlin/.local/share/openxcom/40k"
+    GAME_BINARY_PATH = "/home/user/openxcomex/OpenXcomEx"
+    SAVE_DIRECTORY_PATH = "/home/user/.local/share/openxcom/40k"
 
     # Initialize bot controller
     bot_controller = OXCEGameBot(GAME_BINARY_PATH, SAVE_DIRECTORY_PATH)
