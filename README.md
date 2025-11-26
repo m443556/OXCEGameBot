@@ -1,5 +1,5 @@
 # OXCEGameBot
-Automated Controller for OpenXcom Extended ![Project Status](https://img.shields.io/badge/status-WIP-yellow)
+Automated Controller for OpenXcom Extended (![Project Status](https://img.shields.io/badge/status-WIP-yellow))
 
 ## Overview
 A Python-based bot that automates gameplay for OpenXcom Extended (OXCE) using computer vision and game state analysis.
