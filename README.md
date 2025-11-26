@@ -34,8 +34,8 @@ pip install -r requirements.txt
 ```
 
 5. Set configuration variables!
-    - Open OXCEBot.py in your favorite editor.
-    - Change GAME_BINARY_PATH and SAVE_DIRECTORY_PATH to the actual paths to your game.
+    - Open ```OXCEBot.py``` in your favorite editor.
+    - Change ```GAME_BINARY_PATH``` and ```SAVE_DIRECTORY_PATH``` to the actual paths to your game.
     - Save.
 
 7. Run
